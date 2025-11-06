@@ -17,4 +17,4 @@
 ## 使用說明
 1. 將專案克隆到本地：
 ```bash
-git clone https://github.com/<你的帳號>/python-test.git
+git clone https://github.com/<rayzhang36>/python-test.git
